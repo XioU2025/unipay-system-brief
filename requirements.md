@@ -7,7 +7,7 @@
 # Requirements – UniPay
 
 ## Link al Backlog
-(Colocar aquí el link del tablero Trello)
+https://trello.com/b/xahAnWCS/unipay-backlog
 
 ---
 
